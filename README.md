@@ -1,4 +1,4 @@
-# Sistema de gestión de biblioteca universitaria
+# Sistema de gestión de la biblioteca universitaria
 
  # Descripción del proyecto
 
