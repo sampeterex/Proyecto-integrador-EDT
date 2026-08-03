@@ -1,4 +1,4 @@
-# Proyecto-integrador-EDT
+# Objetivoa del Sistema de gestion de la biblioteca universitaria
 
 OBJETIVO GENERAL
 
