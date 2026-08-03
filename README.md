@@ -1,4 +1,4 @@
-# Objetivoa del Sistema de gestion de la biblioteca universitaria
+# Objetivos del Sistema de gestion de la biblioteca universitaria
 
 OBJETIVO GENERAL
 
