@@ -1,6 +1,6 @@
-# Proyecto-integrador-EDT
+# Participantes, roles y política de uso de inteligencia artificial
 
-PARTICIPANTES DEL PROYECTO
+# PARTICIPANTES DEL PROYECTO
 
 <=========================>
 
@@ -13,7 +13,7 @@ PARTICIPANTES DEL PROYECTO
     
 
 
-  USO DE IA
+# USO DE IA
   
   <========>
 
