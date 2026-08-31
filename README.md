@@ -5,7 +5,7 @@ OBJETIVO GENERAL
 Crear un sistema que ayude a organizar mejor la biblioteca de una universidad, y así sea más fácil manejar los usuarios, los libros que hay y los préstamos que se hacen,
 para que todo funcione de forma más rápida y ordenada tanto como para los estudiantes, los profesores y bibliotecarios.
 
-OBJETIVOS ESPESIFICOS
+OBJETIVOS ESPECIFICOS
 
    1. Crear una parte en el código donde se puedan registrar los usuarios (estudiantes, profesores y bibliotecarios),
       para que cada uno tenga su propio usuario y pueda entrar al sistema según lo que le corresponda hacer.
