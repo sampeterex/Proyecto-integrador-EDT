@@ -1,0 +1,8 @@
+System.out.println("\n Estante de la Librería ");
+
+for (int i = 0; i < n; i++) {
+    for (int j = 0; j < n; j++) {
+        System.out.print("[" + estante[i][j] + "] ");
+    }
+    System.out.println();
+}
